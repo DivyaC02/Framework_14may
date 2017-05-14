@@ -72,6 +72,7 @@
  <forkMode>never</forkMode>
 <suiteXmlFiles>
 <suiteXmlFile>SmokeTest.xml</suiteXmlFile>
+<suiteXmlFile>RegressionTest.xml</suiteXmlFile>
 </suiteXmlFiles>
  
 </configuration>
