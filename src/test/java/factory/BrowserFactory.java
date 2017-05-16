@@ -34,7 +34,7 @@ public class BrowserFactory {
 	
 	{
 		ldriver.close();
-		System.exit(0);
+		
 	}
 
 }

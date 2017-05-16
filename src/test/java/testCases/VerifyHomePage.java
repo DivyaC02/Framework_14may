@@ -42,6 +42,6 @@ public class VerifyHomePage {
 	
 	{
 		driver.close();
-		System.exit(0);
+		
 	}
 }
